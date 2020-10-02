@@ -1,14 +1,61 @@
+
+body{ 
+    margin:0;
+    border:0;
+    padding:0;
+  }
+
+.log{
+    margin-top:2 ;
+    margin-left: 70px;
+    margin-right:-80px;
+     width: 100%;
+     height:450px;
+  
+}
+
+
+
 h2{
     font-family: 'Merriweather', serif;
     font-weight: bold;
-    float: center;
+   
 }
-.abou{
-    text-align: center;
-}
+
 .abou{
     justify-content: center;
+    text-align: center;
 }
 p{
  font-family: 'Antic Slab',serif;
+}
+
+.seri{
+    margin-top:2 ;
+    margin-left: 70px;
+    margin-right:-80px;
+     
+}
+.hea{
+    color: white;
+    position:absolute;
+
+   bottom: -500px;
+   text-align: center;
+}
+h3{
+    text-align: center;
+    margin-left: 40%;
+}
+.geli{
+    color: white;
+    position:absolute;
+
+   bottom: -630px;
+   text-align: center;
+   margin-left: 70px;
+
+}
+p{
+
 }
