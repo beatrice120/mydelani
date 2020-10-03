@@ -56,6 +56,24 @@ h3{
    margin-left: 70px;
 
 }
-p{
+h4{
+    text-align: center;
+    margin-left:45%;
 
+}
+
+.col-sm-4{
+    margin-left:20%;
+    margin-top:-1%;
+    margin-bottom:9%;
+   
+}
+.col-sm-6{
+   
+    margin-top:-14%;
+ margin-left:46%;
+}
+.col-sm-2{
+    margin-left:80% ;
+    margin-top: -15%;
 }
