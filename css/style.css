@@ -96,3 +96,34 @@ h4{
     margin-left: 7%;
     width:85%;
 }
+h6{text-align: center;
+margin-top: 100%;
+
+}
+.yname{
+    width: 400px;
+    margin-left: 50%;
+}
+.ymail {width:200%;
+    margin-left:3%;}
+    
+ .mymess{
+        margin-left:30%;
+        width: 92%;
+        height: 300%;
+       
+      
+    
+    }
+.img{margin-left:3%;
+margin-right: -10%;}
+.six{
+   margin-top: -1%;
+   bottom: 630px;
+}
+
+.shaba{
+ 
+   margin-left:4%;
+   background:url('../img/shab.jpg');
+}
