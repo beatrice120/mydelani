@@ -127,3 +127,42 @@ margin-right: -10%;}
    margin-left:4%;
    background:url('../img/shab.jpg');
 }
+.for{
+    margin-top:40px;
+    margin-left:50%;
+    color:black;
+}
+  .ic{
+      text-align: center;
+      margin-left: 30%;
+  }
+  .fa-facebook{color: deepskyblue;
+    text-align: center;
+
+  }
+  .fa-twitter{
+      color: rgb(43, 107, 226);
+  }
+  .fa-dribbble{
+      color: darkred;
+  }
+  .fa-google{
+    color: darkred;
+}
+.fa-skype{color: deepskyblue;
+    text-align: center;
+
+  }
+ .fa-stumbleupon{color: orange;
+    text-align: center;
+
+  }
+  .fa-pinterest {color: darkred;
+    text-align: center;
+
+  }
+  .fa-flickr{
+    color: rgb(102, 70, 70);
+    text-align: center;
+
+  }
