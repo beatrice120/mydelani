@@ -1,0 +1,27 @@
+$(document).ready(function(){
+    $(".de").click(function(){
+    $(".lexi-showing").show();
+    
+    $(".de").hide();
+   });
+   $(".lexi").click(function(){
+    $(".de").show();
+    $(".lexi").hide();
+   });
+   $(".devv").click(function(){
+    $(".leni").show();
+    $(".devv").hide();
+   });
+   $(".leni").click(function(){
+    $(".devv").show();
+    $(".leni").hide();
+   });
+   $(".denu").click(function(){
+    $(".zela").show();
+    $(".denu").hide();
+   });
+   $(".zela").click(function(){
+    $(".denu").show();
+    $(".zela").hide();
+   });
+});
