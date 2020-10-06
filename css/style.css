@@ -13,7 +13,9 @@ body{
      height:450px;
   
 }
-
+.leni{
+   text-align: center;
+}
 
 
 h2{
@@ -59,7 +61,7 @@ h3{
 h4{
     text-align: center;
     margin-left:45%;
-
+font-weight: bold;
 }
 
 .col-sm-4{
@@ -90,6 +92,7 @@ h4{
  }
  h5{
      text-align: center;
+     font-weight: bold;
  }
  #ros{
     margin-top: 2%;
@@ -98,6 +101,7 @@ h4{
 }
 h6{text-align: center;
 margin-top: 100%;
+font-weight: bold;
 
 }
 .yname{
@@ -179,4 +183,19 @@ margin-right: -10%;}
   .tab{
       text-align: center;
   }
- 
+ .sesi{
+     text-align: center;
+     font-weight: bold;
+ }
+
+ .wor1,.wor2,.wor3,.wor4,.wor5,.wor6,.wor7,.wor8{
+  display:none; 
+ color:black;
+   top:40%;
+ margin-left:30%;
+ font-weight:bold;
+ border:2px solid white;
+ width:100px;
+ height:100px;
+ position: absolute;
+}
