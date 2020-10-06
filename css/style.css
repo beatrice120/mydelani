@@ -1,10 +1,20 @@
 
-body{ 
-    margin:0;
-    border:0;
-    padding:0;
-  }
+body{
+  overflow-x: hidden;
+}
+.shani{
+  background-image: url("../img/gulu.jpg");
+  background-position: center;
+  text-align:center;
+  height: auto;
+  background-size: cover;
+  text-decoration-color: white;
+}
 
+#mouse{
+  padding-top: 15%;
+  padding-bottom: 1%;
+}
 .log{
     margin-top:2 ;
     margin-left: 70px;
@@ -39,10 +49,10 @@ p{
      
 }
 .hea{
-    color: white;
+    color:white;
     position:absolute;
 
-   bottom: -500px;
+   bottom: -290px;
    text-align: center;
 }
 h3{
@@ -53,7 +63,7 @@ h3{
     color: white;
     position:absolute;
 
-   bottom: -630px;
+   bottom: -420px;
    text-align: center;
    margin-left: 70px;
 
@@ -244,24 +254,4 @@ margin-right: -10%;}
 
 #name::placeholder{
   color: black
-}
-body{
-  overflow-x: hidden;
-}
-.container-full{
-  background-image: url("../img/gulu.jpg");
-  background-position: center;
-  text-align:center;
-  height: auto;
-  background-size: cover;
-  /* padding-top:25%; */
-  text-decoration-color: white;
-}
-.landing{
-padding-top: 20%;
-}
-
-#mouse{
-  padding-top: 15%;
-  padding-bottom: 1%;
 }
