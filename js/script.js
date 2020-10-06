@@ -75,15 +75,15 @@ $("#ven8").mouseover(function(){
                                 $(".wor8").hide();
                                 });
 
-                                $('.submit').click(function () {
+$('.submit').click(function () {
                                     var name = $('#name').val();
                                     var email = $('#email').val();
                                     var message = $('#message');
                                    
                                     if (name == '' || email == '' || message == '') {
-                                        alert('Please make sure you have filled in the form correctly!');
+                                        alert('dear enter your information correctly!');
                                     } else {
-                                        alert(' Hi ' + name + ' We have received your message. Thank you for reaching out to us.');
+                                        alert(' dear ' + name + ' We have received your message. Thank you for reaching out to us.');
                                     }
                               });
                           
