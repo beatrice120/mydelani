@@ -1,4 +1,5 @@
 ### project name: DELANI STUDIO
+
 ## AUTHOR: BEATRICE SHABANI
 
 ### DESCRIPTION OF PROJECT
@@ -12,25 +13,21 @@ if you want to visit my link click on the following link:
 
 ###  Bugs
 none
-
 ### Technologies Used are;
 
 * HTML
 * CSS
 * jquery 
 * bootstrap
-
 ## Support and contact details
 if you have any problem reach me on;
 Tel:0781915357
 Email: Bshabani120@daviscollege.com
-
-
 ## License
 
 MIT License
 
-Copyright (c) 2020 beatrice shabani
+Copyright (c) 2020 Beatrice Shabani
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
