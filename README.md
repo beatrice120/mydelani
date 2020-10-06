@@ -9,7 +9,7 @@ this webiste enable the user to see all about delani studio which are on what we
 you must; 
 * open account on github
 * download VS CODE 
-if you want to visit my link click on the following link:
+if you want to visit my link click on the following link:  https://beatrice120.github.io/mydelani/
 
 ###  Bugs
 none
