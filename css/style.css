@@ -104,14 +104,14 @@ margin-top: 100%;
 font-weight: bold;
 
 }
-.yname{
+#name{
     width: 400px;
     margin-left: 50%;
 }
-.ymail {width:200%;
+#mail {width:200%;
     margin-left:3%;}
     
- .mymess{
+ #message{
         margin-left:30%;
         width: 92%;
         height: 300%;
@@ -125,6 +125,7 @@ margin-right: -10%;}
    margin-top: -1%;
    bottom: 630px;
 }
+/*
 
 .shaba{
  
@@ -135,7 +136,7 @@ margin-right: -10%;}
     margin-top:40px;
     margin-left:50%;
     color:black;
-}
+} */
   .ic{
       text-align: center;
       margin-left: 30%;
@@ -198,4 +199,69 @@ margin-right: -10%;}
  width:100px;
  height:100px;
  position: absolute;
+}
+/*
+#form{
+  background-color: unset;
+  
+}
+#mail{
+  background-color: unset;
+  
+}
+#message{
+  background-color: unset;
+  
+}
+*/
+#form{
+  background-image: url("../img/shab.jpg");
+}
+.input{
+  display: inline;
+
+}
+#form input{
+  width:35%;
+  background-color: transparent;
+
+}
+#name{
+  margin-left: 12%;
+  color :black;
+}
+#email{
+  margin-left:5%;
+  color: black;
+}
+#form textarea{
+  background-color: transparent;
+  color: black;
+}
+#email::placeholder{
+  color:black
+}
+
+#name::placeholder{
+  color: black
+}
+body{
+  overflow-x: hidden;
+}
+.container-full{
+  background-image: url("../img/gulu.jpg");
+  background-position: center;
+  text-align:center;
+  height: auto;
+  background-size: cover;
+  /* padding-top:25%; */
+  text-decoration-color: white;
+}
+.landing{
+padding-top: 20%;
+}
+
+#mouse{
+  padding-top: 15%;
+  padding-bottom: 1%;
 }
