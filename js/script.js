@@ -75,22 +75,18 @@ $("#ven8").mouseover(function(){
                                 $(".wor8").hide();
                                 });
 
- $("form#form1").on('submit',function(event){
-           event.preventDefault();
-           var name = $("input#name").val();
-           var email = $("input#email").val();
-           var message = $("textarea#message").val();
-
-           if ($("input#name").val() && $("input#email").val() && $("input#message").val() ){
-               alert ("Hello " + name + ", Thank you for reaching out, we'll get back to you shortly...");
-           }
-           else if($("input#name").val() && $("input#email").val()){
-               alert("Thank you for reaching ou to us. If you wish to leave a message please type in on the message section..");
-           }
-          else{
-            alert("Please provide correct name or email")
-          }
-       });
+                                $('.submit').click(function () {
+                                    var name = $('#name').val();
+                                    var email = $('#email').val();
+                                    var message = $('#message');
+                                   
+                                    if (name == '' || email == '' || message == '') {
+                                        alert('Please make sure you have filled in the form correctly!');
+                                    } else {
+                                        alert(' Hi ' + name + ' We have received your message. Thank you for reaching out to us.');
+                                    }
+                              });
+                          
 
 
                             });
