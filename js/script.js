@@ -69,7 +69,7 @@ $("#ven1").mouseover(function(){
                             $(".wor7").hide();
                             });
 
-    $("#ven8").mouseover(function(){
+$("#ven8").mouseover(function(){
                                 $(".wor8").show();
                                 });
                                 $("#ven8").mouseleave(function(){
